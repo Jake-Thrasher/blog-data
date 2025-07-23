@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Title",
+    "date": "2025-07-20",
+    "content": "blog post!",
+    "tags": ["intro", "web"]
+  },
+  {
+    "id": 2,
+    "title": "Second Post",
+    "date": "2025-07-21",
+    "content": "Test",
+    "tags": ["javascript", "learning"]
+  }
+]
