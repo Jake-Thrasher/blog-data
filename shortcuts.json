@@ -1,0 +1,6 @@
+[
+  { "key": "Ctrl + B", "action": "Bold Text" },
+  { "key": "Ctrl + I", "action": "Italicize Text" },
+  { "key": "Ctrl + S", "action": "Save File" },
+  { "key": "Ctrl + K", "action": "Open Keyboard Shortcuts" }
+]
