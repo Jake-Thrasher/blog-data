@@ -8,9 +8,9 @@
   },
   {
     "id": 2,
-    "title": "Search Bar",
+    "title": "Try Searching me in the search bar.",
     "date": "2025-07-21",
-    "content": "Try Searching Me.",
+    "content": "Edit me and watch it auto-save",
     "tags": ["javascript", "learning"]
   }
 ]
