@@ -8,9 +8,9 @@
   },
   {
     "id": 2,
-    "title": "Second Post",
+    "title": "Search Bar",
     "date": "2025-07-21",
-    "content": "Test",
+    "content": "Try Searching Me.",
     "tags": ["javascript", "learning"]
   }
 ]
